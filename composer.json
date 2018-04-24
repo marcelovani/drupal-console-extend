@@ -23,7 +23,7 @@
     "repositories": {
         "console-extend-plugin": {
             "type": "vcs",
-            "url": "git@github.com:marcelovani/drupal-console-commands.git"
+            "url": "git@github.com:marcelovani/drupal-console-extend-plugin.git"
         },
         "drupal-console": {
             "type": "vcs",
@@ -39,7 +39,7 @@
         },
         "dennis-commands": {
             "type": "vcs",
-            "url": "https://github.com/marcelovani/drupal_console_commands.git"
+            "url": "git@github.com:marcelovani/drupal-console-commands.git"
         }
     }
 }
