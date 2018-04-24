@@ -23,23 +23,23 @@
     "repositories": {
         "console-extend-plugin": {
             "type": "vcs",
-            "url": "https://github.com/dennisinteractive/drupal-console-extend-plugin.git"
+            "url": "https://github.com/marcelovani/drupal-console-extend-plugin.git"
         },
         "drupal-console": {
             "type": "vcs",
-            "url": "https://github.com/dennisinteractive/drupalconsole.git"
+            "url": "https://github.com/marcelovani/drupalconsole.git"
         },
         "drupal-console-core": {
             "type": "vcs",
-            "url": "git@github.com:dennisinteractive/drupal-console-core.git"
+            "url": "git@github.com:marcelovani/drupal-console-core.git"
         },
         "drupal-console-en": {
             "type": "vcs",
-            "url": "git@github.com:dennisinteractive/drupal-console-en.git"
+            "url": "git@github.com:marcelovani/drupal-console-en.git"
         },
         "dennis-commands": {
             "type": "vcs",
-            "url": "https://github.com/dennisinteractive/drupal_console_commands.git"
+            "url": "https://github.com/marcelovani/drupal_console_commands.git"
         }
     }
 }
