@@ -798,12 +798,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/marcelovani/drupal-console-core.git",
-                "reference": "a1a8799007e36003a3674eb4a357afa68240b3c3"
+                "reference": "a60f8fdefc4821e849276a77e2ddd33f8dcf6dc0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/marcelovani/drupal-console-core/zipball/a1a8799007e36003a3674eb4a357afa68240b3c3",
-                "reference": "a1a8799007e36003a3674eb4a357afa68240b3c3",
+                "url": "https://api.github.com/repos/marcelovani/drupal-console-core/zipball/a60f8fdefc4821e849276a77e2ddd33f8dcf6dc0",
+                "reference": "a60f8fdefc4821e849276a77e2ddd33f8dcf6dc0",
                 "shasum": ""
             },
             "require": {
@@ -876,7 +876,7 @@
                 "docs": "http://docs.drupalconsole.com/",
                 "source": "https://github.com/marcelovani/drupal-console-core/tree/marcelo"
             },
-            "time": "2018-04-23T13:51:06+00:00"
+            "time": "2018-04-24T16:58:44+00:00"
         },
         {
             "name": "drupal/console-en",
