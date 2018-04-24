@@ -9,11 +9,11 @@
         }
     ],
     "require": {
-        "drupal/console-extend-plugin":"dev-marcelo as 0.9",
-        "drupal/console-en":"dev-marcelo as 1.8.0",
-        "drupal/console-core":"dev-marcelo as 1.8.0",
-        "drupal/console":"dev-marcelo as 1.8.0",
-        "dennisdigital/drupal_console_commands": "dev-marcelo"
+        "drupal/console-extend-plugin":"dev-marcelo as 0.9.2",
+        "dennisdigital/drupal_console_commands": "dev-marcelo",
+        "drupal/console-en": "dev-marcelo as 1.8.0",
+        "drupal/console": "dev-marcelo as 1.8.0",
+        "drupal/console-core": "dev-marcelo as 1.8.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
@@ -23,11 +23,11 @@
     "repositories": {
         "console-extend-plugin": {
             "type": "vcs",
-            "url": "https://github.com/marcelovani/drupal-console-extend-plugin.git"
+            "url": "git@github.com:marcelovani/drupal-console-commands.git"
         },
         "drupal-console": {
             "type": "vcs",
-            "url": "https://github.com/marcelovani/drupalconsole.git"
+            "url": "git@github.com:marcelovani/drupal-console.git"
         },
         "drupal-console-core": {
             "type": "vcs",
